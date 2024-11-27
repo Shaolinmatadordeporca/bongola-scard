@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O navio estava voando, bateu e furou pneu. Quantas melancias restaram?',
-    'Pois a vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez.'
+    'bleacj',
+    'qual o nome da bankai de maiury?',
+    'konjiki ashisogi jizō.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'bleach',
+    'quem selou o aizen após a guerra de karakura?',
+    'urahara'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'bleach',
+    'qual o nome da ulttima batalha?',
+    'blood war 1000 years'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'super onze',
+    'qual o sobrenome de endou?',
+    'mamoru'
 )
